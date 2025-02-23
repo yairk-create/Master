@@ -10,7 +10,7 @@ palin text
 
 
 '''
-ls -l
+ls -la
 
 '''
 
