@@ -9,10 +9,10 @@
 palin text
 
 
-'''
+runing the ls -la command
+'
 ls -la
-
-'''
+'
 
 -bullet
 	-testing sub
