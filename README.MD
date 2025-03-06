@@ -1,4 +1,4 @@
-### This is my First project 
+### This is Bash
 ## testing size
 # test size 1
 
