@@ -20,8 +20,6 @@ This repository contains homework, projects, and exercises completed during the 
 
 * **assets/** - Images and resources used in documentation.
 * **bash/** - Bash scripts and automation tasks.
-* **projects/** - Larger course projects with their own documentation.
-* **exercises/** - Small practice exercises and code samples.
 * **notes/** - Course notes and learning resources.
 >>>>>>> refs/remotes/origin/myfeature
 
@@ -34,20 +32,6 @@ This repository contains homework, projects, and exercises completed during the 
 - **Dependency Management**: Automatically identifies and installs required dependencies.
 - **Modular Installation**: Provides command-line arguments to selectively install specific features.
 =======
-## 🛠️ Technologies Covered
-
-Throughout this course, I've worked with various DevOps tools and technologies including:
-
-* Docker and container orchestration
-* Kubernetes
-* CI/CD pipelines (Jenkins, GitHub Actions)
-* Infrastructure as Code (Terraform, Ansible)
-* Cloud platforms (AWS, Azure, GCP)
-* Monitoring and logging solutions
-* Bash scripting and automation
-
-## 🚀 About Me
->>>>>>> refs/remotes/origin/myfeature
 
 ### Supported Nginx Features
 - **User Directory**: Configures user-specific web directories (similar to Apache's `userdir` module).
@@ -80,34 +64,6 @@ Throughout this course, I've worked with various DevOps tools and technologies i
 -A, --all             Install and configure all features
 ```
 =======
-I am passionate about DevOps practices and continuously improving software delivery processes. This repository demonstrates my hands-on experience with modern DevOps tools and methodologies.
-
-## 🎯 Course Objectives
-
-* Master core DevOps principles and practices
-* Implement automation for software delivery pipelines
-* Deploy and manage applications in containerized environments
-* Design scalable and resilient infrastructure solutions
-* Apply monitoring and observability best practices
-
-## 📝 How to Use This Repository
-
-Each folder contains related files and its own README with specific instructions where applicable. To explore a particular topic, navigate to the corresponding directory and review the contents.
-
-## 🤝 Contributing
-
-While this is primarily a personal learning repository, suggestions and feedback are welcome! Feel free to open an issue if you have recommendations or spot any errors.
-
-## 📚 Resources
-
-* [Course Website](https://example.com/devops12)
-* [DevOps Roadmap](https://roadmap.sh/devops)
-* [Official Documentation Hub](https://example.com/docs)
-
-## 📄 License
-
-This repository is for educational purposes.
->>>>>>> refs/remotes/origin/myfeature
 
 ### Examples
 
@@ -156,10 +112,3 @@ If you encounter issues:
 This script is based on the Nginx configuration guidelines from:
 [Nginx Shallow Dive](https://gitlab.com/vaiolabs-io/nginx-shallow-dive)
 
-## Contributing
-
-Contributions to improve the script are welcome. Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
