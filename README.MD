@@ -55,5 +55,5 @@ While this is primarily a personal learning repository, suggestions and feedback
 
 ## 📄 License
 
-This repository is for educational purposes. Code samples are available under MIT License unless otherwise specified.
+This repository is for educational purposes.
 
