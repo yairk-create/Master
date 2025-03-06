@@ -28,7 +28,6 @@ Throughout this course, I've worked with various DevOps tools and technologies i
 
 ## 🚀 About Me
 
-My name is not important. What is important is My name.
 
 I am passionate about DevOps practices and continuously improving software delivery processes. This repository demonstrates my hands-on experience with modern DevOps tools and methodologies.
 
