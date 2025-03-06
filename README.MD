@@ -58,6 +58,3 @@ While this is primarily a personal learning repository, suggestions and feedback
 
 This repository is for educational purposes. Code samples are available under MIT License unless otherwise specified.
 
-## Author
-
-@mendelsontal
