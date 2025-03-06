@@ -12,7 +12,7 @@ This repository contains homework, projects, and exercises completed during the 
 * **projects/** - Larger course projects with their own documentation.
 * **exercises/** - Small practice exercises and code samples.
 * **notes/** - Course notes and learning resources.
-* **infrastructure/** - Infrastructure as Code (IaC) configurations.
+
 
 ## 🛠️ Technologies Covered
 
