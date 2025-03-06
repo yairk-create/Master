@@ -113,28 +113,11 @@ EOF
    
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function main(){
-
-
-
+function main()  {     
 check_priviliges
 check_nginx_installed
+ check_vhost
+
 }
+
+main
