@@ -1,5 +1,3 @@
-# DevOps12 Professional Course Repository
-
 ## Introduction
 Welcome to my DevOps12 Professional Course Repository.
 
